@@ -1,6 +1,7 @@
 # Agenda 
  
 - [Intro](#intro)
+- [OSI Model](#osi-model)
 
 - [Miscellaneous](#miscellaneous)
 - [Advanced](#advanced)
@@ -50,9 +51,19 @@ ifconfig
 ```
 
 
+### osi-model
 
+Rhythm      | Count           | Name        | Workflow 
+------------ | ------------ | ----------- | ---------
+Please | 01   | Physical | Data cable, cat5, 6
+Do | 02 | Data | Switching, MAC address 
+Not | 03 | Network | IP address, routing
+Take | 04 | Transport | TCP/UDP
+Sauce | 05 | Session | Session management
+Pizza | 06 | Presentation | WMV, JPEG, MOV
+Away | 07 | Application | HTTP, SMTP
 
-
+```Rhythm: Please do not take sauce pizza away```
 
 
 
