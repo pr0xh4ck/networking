@@ -1,6 +1,7 @@
 # Agenda 
  
 - [Intro](#intro)
+  - [MAC Address Lookup](#mac-address-lookup)
 - [OSI Model](#osi-model)
 
 - [Miscellaneous](#miscellaneous)
@@ -49,6 +50,37 @@ ipconfig
 ```bash
 ifconfig
 ```
+
+### mac-address-lookup
+- Windows
+```shell
+ipconfig /all 
+```
+
+- linux
+```bash
+ifconfig
+```
+
+- Check your MAC-Address
+```url
+https://dnschecker.org/mac-lookup.php?query=
+```
+
+
+
+
+
+
+----
+---
+
+
+
+
+
+
+
 
 
 ### osi-model
