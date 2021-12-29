@@ -6,7 +6,7 @@
 
 - [Miscellaneous](#miscellaneous)
 - [Advanced](#advanced)
-
+  - [Subnetting](#Subnetting)
 
 
 
@@ -137,7 +137,7 @@ Away | 07 | Application | HTTP, SMTP
 
 ### advanced
 
-
+#### Subnetting
 
 
 
